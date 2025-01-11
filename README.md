@@ -1,4 +1,3 @@
-![Alt text](delivery_orders_db.png)
 
 
 # delivery_orders_profitability
